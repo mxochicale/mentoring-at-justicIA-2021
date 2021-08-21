@@ -1,6 +1,6 @@
 # Mentoring at Hackathon RIIAA 2021 “JusticIA para los desaparecidos”
 I am creating this repository to put together few references that might be helpful for the participants of the [Hackathon RIIAA 2021 “JusticIA para los desaparecidos”](https://docs.google.com/document/d/1-4cKb-VQ6WOTmxnj1yc_pmQwYRFwmTxmf6xndlFYKmg/edit). 
-References are related to the topics of image processing and recognition and text extraction.
+References are related to the topics of image processing and recognition, text extraction and guidelines for pitches and posters.
 
 ## Image processing techniques 
 
@@ -49,8 +49,8 @@ https://www.researchgate.net/profile/Bapayya-Kommula/publication/348748584_An_Ef
 ## Guidelines for pitches and posters
 * Comprehension & Content( Did the presentation provide an understanding of the background to the research question being addressed and its significance?, Did the presentation clearly describe the key results of the research including conclusions and outcomes?, Did the presentation follow a clear and logical sequence?, Was the thesis topic, key results and research significance and outcomes communicated in language appropriate to a non-specialist audience?,etc)
 * Engagement & Communication (Did the oration make the audience want to know more?, Was the presenter careful not to trivialise or generalise their research?, Did the presenter convey enthusiasm for their research?, Did the presenter capture and maintain their audience's attention?,Did the speaker have sufficient stage presence, eye contact and vocal range; maintain a steady pace, and have a confident stance?, Did the PowerPoint slide enhance the presentation - was it clear, legible, and concise?) 
-* Tips for the pitches (Be enthusiastic and show your passion for your subject, Help the audience relate to your research by emphasising its relevance and any real-world applications or examples, Speak clearly and don’t rush... if you tend to speed up when nervous, check yourself on this, Time yourself and practice keeping within the three minute limit, A comfortable speed of delivery for oral presentation is approximately 80 words per minute. You should therefore be aiming for approximately 200 -250 written words for your three-minute summary,etc) ref of the above https://github.com/mxochicale/3mt#presentations-will-be-judged-according-to-the-following-criteria 
-There should be more … [:link:](https://github.com/mxochicale/3mt#presentations-will-be-judged-according-to-the-following-criteria)
+* Tips for the pitches (Be enthusiastic and show your passion for your subject, Help the audience relate to your research by emphasising its relevance and any real-world applications or examples, Speak clearly and don’t rush... if you tend to speed up when nervous, check yourself on this, Time yourself and practice keeping within the three minute limit, A comfortable speed of delivery for oral presentation is approximately 80 words per minute. You should therefore be aiming for approximately 200 -250 written words for your three-minute summary,etc).
+* There should be more … [:link:](https://github.com/mxochicale/3mt#presentations-will-be-judged-according-to-the-following-criteria)
 
 
 ## Clone repository
