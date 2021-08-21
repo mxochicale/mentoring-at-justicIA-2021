@@ -22,22 +22,22 @@ https://www.pyimagesearch.com/2018/09/17/opencv-ocr-and-text-recognition-with-te
 https://www.pyimagesearch.com/2020/09/14/getting-started-with-easyocr-for-optical-character-recognition/
 
 #### Tutorials 
-Extracting text from images with Tesseract OCR, OpenCV, and Python
-https://www.opcito.com/blogs/extracting-text-from-images-with-tesseract-ocr-opencv-and-python 
-Build from Source Tesseract-OCR 4.0 for OpenCV tracking and OCR on Ubuntu 16.04
-https://www.youtube.com/watch?v=WZLJucXZy-g 
-OpenCV Text Detection (EAST text detector)
-https://www.pyimagesearch.com/2018/08/20/opencv-text-detection-east-text-detector
+* Extracting text from images with Tesseract OCR, OpenCV, and Python  
+https://www.opcito.com/blogs/extracting-text-from-images-with-tesseract-ocr-opencv-and-python   
+* Build from Source Tesseract-OCR 4.0 for OpenCV tracking and OCR on Ubuntu 16.04   
+https://www.youtube.com/watch?v=WZLJucXZy-g    
+* OpenCV Text Detection (EAST text detector)   
+https://www.pyimagesearch.com/2018/08/20/opencv-text-detection-east-text-detector  
 
 #### github repositories 
-https://github.com/JaidedAI/EasyOCR 
-https://github.com/a1xg/Tesseract-opencv-OCR-for-product-labels 
-https://github.com/chd0043/openCV_Tesseract_test 
-https://github.com/kairess/license_plate_recognition 
-https://github.com/stefbo/ulr-ocr 
-https://github.com/viraj96/Smart_Glasses 
-https://github.com/tesseract-ocr/tesseract 
-More in this search: https://github.com/search?q=+Tesseract+and+OpenCV&type=repositories 
+https://github.com/JaidedAI/EasyOCR   
+https://github.com/a1xg/Tesseract-opencv-OCR-for-product-labels   
+https://github.com/chd0043/openCV_Tesseract_test   
+https://github.com/kairess/license_plate_recognition   
+https://github.com/stefbo/ulr-ocr    
+https://github.com/viraj96/Smart_Glasses    
+https://github.com/tesseract-ocr/tesseract   
+More in this search: https://github.com/search?q=+Tesseract+and+OpenCV&type=repositories    
 
 ## Research topics 
 * EAST: An Efficient and Accurate Scene Text Detector https://arxiv.org/abs/1704.03155 2017 
