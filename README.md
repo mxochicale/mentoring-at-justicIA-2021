@@ -1,21 +1,25 @@
 # Mentoring at Hackathon RIIAA 2021 “JusticIA para los desaparecidos”
 The aim of this repository is to put together few references that might be of helpful for the participants of the [Hackathon RIIAA 2021 “JusticIA para los desaparecidos”](https://docs.google.com/document/d/1-4cKb-VQ6WOTmxnj1yc_pmQwYRFwmTxmf6xndlFYKmg/edit). 
-References are related to the topics of (1) automatic document image analysis, (2) reproducibility and (3) guidelines for pitches.
+References are related to the topics of (1) automatic document image analysis, (2) computational reproducibility and (3) guidelines for pitches.
 
 ## (1) Automatic document image analysis
 ### Handwritten text recognition 
-* [google-search](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=handwritten+text+recognition&btnG=)
+* :page_facing_up: [google-search](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=handwritten+text+recognition&btnG=)
 * [arXiv-papers](https://arxiv.org/search/?query=Handwritten+text+recognition+&searchtype=all&source=header)
-* Tutorials
+* :notebook_with_decorative_cover: Tutorials
   * https://towardsdatascience.com/build-a-handwritten-text-recognition-system-using-tensorflow-2326a3487cd5  
   * https://pythonrepo.com/repo/arthurflor23-handwritten-text-recognition-python-computer-vision 
+* :octopus: Github repositories 
+  * https://github.com/ahmetozlu/signature_extractor 
+  * List of Github repositories on: [handwritten-signatures](https://github.com/topics/handwritten-signatures)
 
 ###  Detecting signatures 
 * :notebook_with_decorative_cover: Tutorials
   * https://stackoverflow.com/questions/57382935/detecting-and-extracting-signature-from-image-with-opencv
 * :octopus: Github repositories 
   * https://github.com/ahmetozlu/signature_extractor 
-* Papers
+  * List of Github repositories on: [signature-recognition](https://github.com/topics/signature-recognition), [signature-detection](https://github.com/topics/signature-detection), [handwritten-signatures](https://github.com/topics/handwritten-signatures)
+* :page_facing_up: Papers
   * https://link.springer.com/chapter/10.1007/978-3-030-63319-6_43
 
 ### Optical Character Recognition (OCR)
@@ -32,7 +36,12 @@ References are related to the topics of (1) automatic document image analysis, (
 * Scene Text Detection 
   * See references in [papers-with-code](https://paperswithcode.com/task/scene-text-detection)
   * Wang et al. "ContourNet: Taking a Further Step toward Accurate Arbitrary-shaped Scene Text Detection", 2020, [arXiv](https://arxiv.org/abs/2004.04940)
-  
+
+* :octopus: List of Github repositories on
+  * [optical-character-recognition](https://github.com/topics/optical-character-recognition)
+  * [ocr-recognition](https://github.com/topics/ocr-recognition)
+  * [ocr](https://github.com/topics/ocr)
+
 ### OCR based on tesseract 
 
 #### :notebook_with_decorative_cover: Tutorials 
@@ -71,7 +80,10 @@ https://www.pyimagesearch.com/2018/08/20/opencv-text-detection-east-text-detecto
   * JA Sethian "Level Set Methods and Fast Marching Methods" in book 1999 [google-citations](https://scholar.google.com/scholar?cites=2901443054886525192&as_sdt=2005&sciodt=0,5&hl=en) [PS](https://math.berkeley.edu/~sethian/Books/hold_sethian_book.ps)
   * A. Papandreou et al "Efficient skew detection of printed document images based on novel combination of enhanced profiles" in International Journal on Document Analysis and Recognition (IJDAR) 17(4):433-454. [google-citations](https://scholar.google.com/scholar?cites=13913932226282934167&as_sdt=2005&sciodt=0,5&hl=en) [PDF](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.704.1552&rep=rep1&type=pdf)
   * F Drira, F LeBourgeois "Mean-Shift segmentation and PDE-based nonlinear diffusion: toward a common variational framework for foreground/background document image segmentation" in International Journal on Document Analysis and …, 2017 - Springer [google-citations](https://scholar.google.com/scholar?cites=11435358389871937066&as_sdt=2005&sciodt=0,5&hl=en) [DOI](https://link.springer.com/article/10.1007/s10032-017-0285-7)
-  
+* Shared references by 
+  * Li et al. "A Survey on Deep Learning for Named Entity Recognition" in IEEE Transactions on Knowledge and …, 2020 - [google-citations](https://scholar.google.com/scholar?cites=14232981158093250391&as_sdt=2005&sciodt=0,5&hl=en), [arXiv](https://arxiv.org/abs/1812.09449)
+  * 
+
 ### :green_book: Books
 * "Document Image Analysis", Lawrence O’Gorman and Rangachar Kasturi 2009 [:link:](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.182.6107&rep=rep1&type=pdf) [google-citations](https://scholar.google.com/scholar?cites=15004238720478995212&as_sdt=2005&sciodt=0,5&hl=en)
 
@@ -103,7 +115,7 @@ You can then clone the repository by typing (or copying) the following line in a
 git clone git@github.com:mxochicale/mentoring-at-justicIA-2021.git
 ```
 
-## Issues Contact 
+## :bug: Issues Contact 
 If you have specific questions about the content of this repository, you can contact 
 [Miguel Xochicale](mailto:perez.xochicale@gmail.com?subject="[Mentoring@JusticIA]"). 
 If your question might be relevant to other people, please instead 
