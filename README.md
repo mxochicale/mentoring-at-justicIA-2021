@@ -1,6 +1,6 @@
 # Mentoring at Hackathon RIIAA 2021 “JusticIA para los desaparecidos”
-The aim of this repository is to put together few references that might be helpful for the participants of the [Hackathon RIIAA 2021 “JusticIA para los desaparecidos”](https://docs.google.com/document/d/1-4cKb-VQ6WOTmxnj1yc_pmQwYRFwmTxmf6xndlFYKmg/edit). 
-References are related to the topics of on (1) automatic document image analysis, (2) reproducibility and (3) guidelines for pitches and posters.
+The aim of this repository is to put together few references that might be of helpful for the participants of the [Hackathon RIIAA 2021 “JusticIA para los desaparecidos”](https://docs.google.com/document/d/1-4cKb-VQ6WOTmxnj1yc_pmQwYRFwmTxmf6xndlFYKmg/edit). 
+References are related to the topics of (1) automatic document image analysis, (2) reproducibility and (3) guidelines for pitches.
 
 ## (1) Automatic document image analysis
 ### Handwritten text recognition 
@@ -105,6 +105,6 @@ git clone git@github.com:mxochicale/mentoring-at-justicIA-2021.git
 
 ## Issues Contact 
 If you have specific questions about the content of this repository, you can contact 
-[Miguel Xochicale](mailto:perez.xochicale@gmail.com?subject="[tools]"). 
+[Miguel Xochicale](mailto:perez.xochicale@gmail.com?subject="[Mentoring@JusticIA]"). 
 If your question might be relevant to other people, please instead 
 [open an issue](https://github.com/mxochicale/mentoring-at-justicIA-2021/issues).
