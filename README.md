@@ -5,7 +5,7 @@ References are related to the topics of (1) automatic document image analysis, (
 ## (1) Automatic document image analysis
 ### Handwritten text recognition 
 * :page_facing_up: [google-search](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=handwritten+text+recognition&btnG=)
-* [arXiv-papers](https://arxiv.org/search/?query=Handwritten+text+recognition+&searchtype=all&source=header)
+* :page_facing_up: [arXiv-papers](https://arxiv.org/search/?query=Handwritten+text+recognition+&searchtype=all&source=header)
 * :notebook_with_decorative_cover: Tutorials
   * https://towardsdatascience.com/build-a-handwritten-text-recognition-system-using-tensorflow-2326a3487cd5  
   * https://pythonrepo.com/repo/arthurflor23-handwritten-text-recognition-python-computer-vision 
@@ -21,6 +21,20 @@ References are related to the topics of (1) automatic document image analysis, (
   * List of Github repositories on: [signature-recognition](https://github.com/topics/signature-recognition), [signature-detection](https://github.com/topics/signature-detection), [handwritten-signatures](https://github.com/topics/handwritten-signatures)
 * :page_facing_up: Papers
   * https://link.springer.com/chapter/10.1007/978-3-030-63319-6_43
+
+### Fingerprint recognition
+* :page_facing_up: [google-search](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Fingerprint+recognition&btnG=)
+  * F Zeng, S Hu, K Xiao, "Research on partial fingerprint recognition algorithm based on deep learning" in Neural Computing and Applications, 2019 - Springer [google-citations](https://scholar.google.com/scholar?cites=14095469998721453487&as_sdt=2005&sciodt=0,5&hl=en) [PDF](https://www.proquest.com/docview/2299373132?pq-origsite=gscholar&fromopenview=true)
+  * LIU, "Fingerprint Recognition", in thesis 2009 [PDF](https://www.massey.ac.nz/~albarcza/ResearchFiles/BoLiu_Hon_2009.pdf)
+  * L Coetzee, EC Botha, "Fingerprint recognition in low quality images" in Pattern recognition, 1993 - Elsevier [google-citations](https://scholar.google.com/scholar?cites=2078956907707167958&as_sdt=2005&sciodt=0,5&hl=en)
+* :page_facing_up: [arXiv-papers](https://arxiv.org/search/?searchtype=all&query=Fingerprint+recognition&abstracts=show&size=200&order=-announced_date_first)
+* :notebook_with_decorative_cover: Tutorials
+  * https://medium.com/@cuevas1208/fingerprint-algorithm-recognition-fd2ac0c6f5fc
+  * https://www.codespeedy.com/fingerprint-detection-in-python/
+* :octopus: Github repositories 
+  * https://github.com/kjanko/python-fingerprint-recognition
+  * https://github.com/przemekpastuszka/biometrics 
+  * List of Github repositories on: [fingerprint recognition](https://github.com/search?q=fingerprint+recognition&type=repositories)
 
 ### Optical Character Recognition (OCR)
 * LayoutLM: Pre-training of Text and Layout for Document Image Understanding. Xu et al. 2019 [arXiv](https://arxiv.org/abs/1912.13318) 
