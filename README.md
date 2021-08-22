@@ -80,9 +80,10 @@ https://www.pyimagesearch.com/2018/08/20/opencv-text-detection-east-text-detecto
   * JA Sethian "Level Set Methods and Fast Marching Methods" in book 1999 [google-citations](https://scholar.google.com/scholar?cites=2901443054886525192&as_sdt=2005&sciodt=0,5&hl=en) [PS](https://math.berkeley.edu/~sethian/Books/hold_sethian_book.ps)
   * A. Papandreou et al "Efficient skew detection of printed document images based on novel combination of enhanced profiles" in International Journal on Document Analysis and Recognition (IJDAR) 17(4):433-454. [google-citations](https://scholar.google.com/scholar?cites=13913932226282934167&as_sdt=2005&sciodt=0,5&hl=en) [PDF](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.704.1552&rep=rep1&type=pdf)
   * F Drira, F LeBourgeois "Mean-Shift segmentation and PDE-based nonlinear diffusion: toward a common variational framework for foreground/background document image segmentation" in International Journal on Document Analysis and …, 2017 - Springer [google-citations](https://scholar.google.com/scholar?cites=11435358389871937066&as_sdt=2005&sciodt=0,5&hl=en) [DOI](https://link.springer.com/article/10.1007/s10032-017-0285-7)
-* Shared references by 
+* Shared references by Víctor Muñiz Sánchez
   * Li et al. "A Survey on Deep Learning for Named Entity Recognition" in IEEE Transactions on Knowledge and …, 2020 - [google-citations](https://scholar.google.com/scholar?cites=14232981158093250391&as_sdt=2005&sciodt=0,5&hl=en), [arXiv](https://arxiv.org/abs/1812.09449)
-  * 
+  * V Yadav, S Bethard, "A Survey on Recent Advances in Named Entity Recognition from Deep Learning models", arXiv preprint  2019 [google-citations](https://scholar.google.com/scholar?cites=2301086381693107825&as_sdt=2005&sciodt=0,5&hl=en) [arXiv](https://arxiv.org/abs/1910.11470)
+
 
 ### :green_book: Books
 * "Document Image Analysis", Lawrence O’Gorman and Rangachar Kasturi 2009 [:link:](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.182.6107&rep=rep1&type=pdf) [google-citations](https://scholar.google.com/scholar?cites=15004238720478995212&as_sdt=2005&sciodt=0,5&hl=en)
@@ -104,9 +105,10 @@ https://www.pyimagesearch.com/2018/08/20/opencv-text-detection-east-text-detecto
 * See this reference for more [:link:](https://github.com/mxochicale/3mt#presentations-will-be-judged-according-to-the-following-criteria)
 
 ## :busts_in_silhouette: Contributors 
-Bursztyn, Victor [@username](https://github.com/)  
-Peña Acevedo, Joaquín [@username](https://github.com/)  
-Xochicale, Miguel  [@mxochicale](https://github.com/mxochicale)
+* Bursztyn, Victor [@username](https://github.com/)   
+* Muñiz Sánchezm, Víctor  [@username](https://github.com/)    
+* Peña Acevedo, Joaquín [@username](https://github.com/)   
+* Xochicale, Miguel  [@mxochicale](https://github.com/mxochicale)
 
 ## Clone repository
 After generating your SSH keys as suggested [here](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) or [here](https://github.com/mxochicale/tools/blob/main/github/SSH.md) with few personal notes.
